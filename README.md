@@ -1,2 +1,2 @@
 # Hello-I-m-New
-I am New Here
+(color:red ; [p]I am New Here[/p])
